@@ -1,0 +1,15 @@
+CrIS Sarta Coefficient Files
+
+* Author
+   C. Hepplewhite, UMBC/JCET. email: chepplew@umbc.edu.
+
+* Application
+  CrIS high resolution mode RTA coefficients (080808).
+
+* Status
+
+V1.0
+
+* Repo Notes
+
+All files under Coef, Solar, and List are saved in git-lfs.  
